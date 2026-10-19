@@ -2,11 +2,11 @@
 <p align="center">Terminal picker for Claude Code, Codex, OpenCode and Pi: harness, provider, model, system prompts, launch.</p>
 
 <p align="center">
-  <a href="https://github.com/beboite/fastpick/releases"><img src="https://img.shields.io/github/v/release/beboite/fastpick?display_name=tag" alt="Release" /></a>
+  <a href="https://github.com/mtsu-dev/fastpick/releases"><img src="https://img.shields.io/github/v/release/mtsu-dev/fastpick?display_name=tag" alt="Release" /></a>
   <a href="https://crates.io/crates/fastpick"><img src="https://img.shields.io/crates/v/fastpick?logo=rust" alt="crates.io" /></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/beboite/fastpick" alt="License" /></a>
-  <a href="https://github.com/beboite/fastpick/stargazers"><img src="https://img.shields.io/github/stars/beboite/fastpick" alt="Stars" /></a>
-  <a href="https://github.com/beboite/fastpick/issues"><img src="https://img.shields.io/github/issues/beboite/fastpick" alt="Issues" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/mtsu-dev/fastpick" alt="License" /></a>
+  <a href="https://github.com/mtsu-dev/fastpick/stargazers"><img src="https://img.shields.io/github/stars/mtsu-dev/fastpick" alt="Stars" /></a>
+  <a href="https://github.com/mtsu-dev/fastpick/issues"><img src="https://img.shields.io/github/issues/mtsu-dev/fastpick" alt="Issues" /></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6" alt="Platform" />
   <img src="https://img.shields.io/badge/Rust-1.88%2B-CE422B?logo=rust" alt="Rust" />
 </p>
@@ -22,7 +22,7 @@ cargo install fastpick
 ```
 
 Or take the signed binary for your platform from
-[Releases](https://github.com/beboite/fastpick/releases), make it executable and put it on
+[Releases](https://github.com/mtsu-dev/fastpick/releases), make it executable and put it on
 your PATH. It is self-contained either way.
 
 ## Use
@@ -69,7 +69,7 @@ rather than dropped.
 ## Installing it
 
 ```
-cargo install --git https://github.com/beboite/fastpick --locked
+cargo install --git https://github.com/mtsu-dev/fastpick --locked
 ```
 
 `--locked` builds against the lockfile in the repository rather than whatever resolves
