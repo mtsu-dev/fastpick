@@ -12,7 +12,7 @@ use std::io::Read;
 use std::path::{Path, PathBuf};
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 
-const REPO: &str = "beboite/fastpick";
+const REPO: &str = "mtsu-dev/fastpick";
 
 /// How long a check stays good. A picker is opened many times a day and the answer moves
 /// at the speed of releases, so anything shorter is only noise on someone's network.
