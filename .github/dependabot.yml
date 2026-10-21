@@ -1,12 +1,12 @@
 version: 2
 
 updates:
-  # Grouped into one pull request per ecosystem. Ungrouped, a quiet week still opens five
+  # Grouped into one pull request per ecosystem. Ungrouped, a quiet month still opens five
   # of them, and the noise is what makes a security bump easy to miss.
   - package-ecosystem: cargo
     directory: "/"
     schedule:
-      interval: weekly
+      interval: monthly
     open-pull-requests-limit: 5
     groups:
       cargo:
@@ -21,7 +21,7 @@ updates:
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
-      interval: weekly
+      interval: monthly
     open-pull-requests-limit: 5
     groups:
       actions:
