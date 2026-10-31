@@ -1,5 +1,3 @@
-<a href="https://mtsu.dev"><img align="right" src="https://mtsu.dev/press/mtsu-icon-1024.png" width="48" alt="MTSU"></a>
-
 <h1 align="center">fastpick</h1>
 <p align="center">Terminal picker for Claude Code, Codex, OpenCode and Pi: harness, provider, model, system prompts, launch.</p>
 
@@ -12,6 +10,8 @@
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6" alt="Platform" />
   <img src="https://img.shields.io/badge/Rust-1.88%2B-CE422B?logo=rust" alt="Rust" />
 </p>
+
+<a href="https://mtsu.dev"><img align="right" src="https://mtsu.dev/press/mtsu-icon-1024.png" width="48" alt="MTSU"></a>
 
 Claude Code, Codex, OpenCode and Pi each want a different environment, and so does every
 endpoint you point them at, so shell wrappers duplicate that setup once per pair. Here it is
