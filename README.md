@@ -1,3 +1,5 @@
+<a href="https://mtsu.dev"><img align="right" src="https://mtsu.dev/press/mtsu-icon-1024.png" width="48" alt="MTSU"></a>
+
 <h1 align="center">fastpick</h1>
 <p align="center">Terminal picker for Claude Code, Codex, OpenCode and Pi: harness, provider, model, system prompts, launch.</p>
 
