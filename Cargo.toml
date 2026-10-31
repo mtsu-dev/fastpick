@@ -7,7 +7,7 @@ description = "Terminal picker for Claude Code, Codex and OpenCode: choose the h
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/mtsu-dev/fastpick"
-homepage = "https://crates.io/crates/fastpick"
+homepage = "https://mtsu.dev/projects/fastpick"
 keywords = ["claude-code", "codex", "opencode", "coding-agent", "launcher"]
 categories = ["command-line-utilities", "development-tools"]
 
